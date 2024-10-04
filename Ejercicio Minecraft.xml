@@ -1,0 +1,66 @@
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<minecraftItems lang="es">
+
+   <item>
+     <id>01</id>
+     <name>Espada de Netherite</name>
+     <type>Arma</type>
+     <rarity>Legendaria</rarity>
+     <damage>9 - Asesinar/Matar enemigos</damage>
+     <description>Es una de las mejores armas del juego, hace más daño que la de diamante y dura más. No se quema en la lava o el fuego.</description>
+   </item>
+
+
+ 
+   <item>
+     <id>02</id>
+     <name>Hacha de Netherite</name>
+     <type>Arma/Herramienta</type>
+     <rarity>Legendaria</rarity>
+     <damage>12 - Talar madera</damage>
+     <description>Perfecta para cortar madera súper rápido, y también pega fuerte si la usas en combate.</description>
+   </item>
+ 
+
+
+   <item>
+     <id>03</id>
+     <name>Pico de Netherite</name>
+     <type>Herramienta</type>
+     <rarity>Legendaria (ej: común, raro, épico)</rarity>
+     <damage>6 - Picar menas</damage>
+     <description>Sirve para minar minerales y bloques más rápido que el de diamante, y aguanta más. Tampoco se quema si cae en lava.</description>
+   </item>
+   
+  
+
+    <item>
+     <id>04</id>
+     <name>Pala de Netherite</name>
+     <type>Herramienta</type>
+     <rarity>Legendaria</rarity>
+     <damage>4 - Para cavar el suelo de tierra, arena o grava</damage>
+     <description>Con esta pala puedes cavar tierra, arena o grava rapidísimo, y dura mucho más que la de diamante.</description>
+    </item>
+   
+  
+
+    <item>
+     <id>05</id>
+     <name>Azada de Netherite</name>
+     <type>Tipo de ítem </type>
+     <rarity>Legendaria </rarity>
+     <damage>2 - Para cultivar comida</damage>
+     <description>Ideal para preparar la tierra para plantar, es súper rápida y resistente, mejor que la de diamante.</description>
+    </item>
+    
+</minecraftItems>
+
+   
+
+
+
+
+
