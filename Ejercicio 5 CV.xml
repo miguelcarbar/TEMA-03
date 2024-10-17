@@ -9,7 +9,7 @@
         <fechanac>09-06-2006</fechanac>
     </informacionpersonal>
     
-    <idiomas>
+    <lenguas>
         <idioma>
             <nombre>Español</nombre>
             <nivel>Nativo</nivel>
@@ -24,7 +24,7 @@
             <nombre>Valenciano</nombre>
             <nivel>Nativo</nivel>
         </idioma>
-    </idiomas>
+    </lenguas>
 
     <habilidades>
         <habilidad>Java</habilidad>
