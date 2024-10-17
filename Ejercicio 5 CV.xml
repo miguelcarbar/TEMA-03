@@ -26,6 +26,14 @@
         </idioma>
     </idiomas>
 
+<habilidades>
+        <habilidad>Java</habilidad>
+        <habilidad>Python</habilidad>
+        <habilidad>SQL</habilidad>
+        <habilidad>HTML y CSS</habilidad>
+        <habilidad>XML</habilidad>
+    </habilidades>
+    
     <experiencialaboral>
         <trabajo>
             <puesto>Tecnico informatico</puesto>
@@ -34,15 +42,7 @@
             <fechafin>10-06-2024</fechafin>
         </trabajo>
     </experiencialaboral>
-
-    <habilidades>
-        <habilidad>Java</habilidad>
-        <habilidad>Python</habilidad>
-        <habilidad>SQL</habilidad>
-        <habilidad>HTML y CSS</habilidad>
-        <habilidad>XML</habilidad>
-    </habilidades>
-
+    
     <formacion>
         <titulo>
            Tecnico en Sistemas Microinformaticos y Redes (FP - Grado medio)
