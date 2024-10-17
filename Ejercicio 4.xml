@@ -1,0 +1,53 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+  <notas lang="es"> 
+
+     <datospersonales>
+     <nombre> David </nombre>
+     <apellidos>Garcia Perez </apellidos>
+     <curso>1 Asir</curso>
+     <Nia> 10751234 </Nia>
+    </datospersonales>
+
+    </alumno>
+        <modulo>
+            <nombre>Lenguaje de marcas y sistemas de gestion de informacion</nombre>
+            <nota>4,9 </nota>
+        </modulo>
+
+        <modulo>
+            <nombre>Planificacio i Administracio de Xarxes</nombre>
+            <nota>4</nota>
+        </modulo>
+
+
+        <modulo>
+            <nombre>Implantacio de Sistemes Operatius</nombre>
+            <nota>3</nota>
+        </modulo>
+
+
+        <modulo>
+            <nombre>Gestion de base de dato</nombre>
+            <nota>1</nota>
+        </modulo>
+
+
+        <modulo>
+            <nombre>Fonaments de Maquinari</nombre>
+            <nota>4.5</nota>
+        </modulo>
+
+
+        <modulo>
+            <nombre>Ingles profesional</nombre>
+            <nota>5</nota>
+        </modulo>
+
+
+        <modulo>
+            <nombre>Projecte intermodular 1 d'Administracio de Sistemes Informatics en Xarxa</nombre>
+            <nota>5</nota>
+        </modulo>
+    </alumno>
+
