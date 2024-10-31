@@ -50,7 +50,6 @@
      <damage>6 - Picar menas</damage>
      <description>Sirve para minar minerales y bloques más rápido que el de diamante, y aguanta más. Tampoco se quema si cae en lava.</description>
    
-
       <materials>
         <material>Pico de diamante</material>
         <material>Escombro ancestral</material>
@@ -99,7 +98,6 @@
        <material>Mesa de herreria</material>
        <material>Mejora de netherite</material>
       </materials>
-
 
    <enchantments>
      <enchantment>Irrompibilidad3/III</enchantment>
