@@ -1,36 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE minecraftItems SYSTEM "mine2.dtd">
 <minecraftItems lang="es">
 
-  <item id="01">
+<item id="01">
     <name>Espada de Netherite</name>
     <type>Arma</type>
     <rarity>Legendaria</rarity>
     <damage>9 - Asesinar/Matar enemigos</damage>
     <description>Es una de las mejores armas del juego, hace más daño que la de diamante y dura más. No se quema en la lava o el fuego.</description>
        <crafteable>false</crafteable>
-     <materials>
-         <material>espada de diamante</material>
-         <material>Escombro ancestral</material>
-         <material>Lingote de Netherite</material>
-         <material>Mesa de herreria</material>
-         <material>Mejora de netherite</material>
-     </materials>
+
+      <materials>
+        <material>espada de diamante</material>
+        <material>Escombro ancestral</material>
+        <material>Lingote de Netherite</material>
+        <material>Mesa de herreria</material>
+        <material>Mejora de netherite</material>
+      </materials>
+
       <enchantable>true</enchantable>
+
    <enchantments>
      <enchantment>Filo 5/V</enchantment>
      <enchantment>Reparacion</enchantment>
    </enchantments>
-  </item>
+
+</item>
 
 
  
-  <item id="02">
+<item id="02">
      <name>Hacha de Netherite</name>
      <type>Arma/Herramienta</type>
      <rarity>Legendaria</rarity>
      <damage>12 - Talar madera</damage>
      <description>Perfecta para cortar madera súper rápido, y también pega fuerte si la usas en combate.</description>
    <crafteable>false</crafteable>
+
      <materials>
          <material>Hacha de diamante</material>
          <material>Escombro ancestral</material>
@@ -38,80 +44,93 @@
          <material>Mesa de herreria</material>
          <material>Mejora de netherite</material>
      </materials>
+
       <enchantable>true</enchantable>
+
    <enchantments>
      <enchantment>Filo 5/V</enchantment>
      <enchantment>Reparacion</enchantment>
-   </enchantments>   
-  </item>
+   </enchantments>  
+
+</item>
  
 
-
-   <item id="03">
+<item id="03">
      <name>Pico de Netherite</name>
      <type>Herramienta</type>
      <rarity>Legendaria (ej: común, raro, épico)</rarity>
      <damage>6 - Picar menas</damage>
      <description>Sirve para minar minerales y bloques más rápido que el de diamante, y aguanta más. Tampoco se quema si cae en lava.</description>
    <crafteable>false</crafteable>
-     <materials>
-         <material>Pico de diamante</material>
-         <material>Escombro ancestral</material>
-         <material>Lingote de Netherite</material>
-         <material>Mesa de herreria</material>
-         <material>Mejora de netherite</material>
-     </materials>
+
+      <materials>
+        <material>Pico de diamante</material>
+        <material>Escombro ancestral</material>
+        <material>Lingote de Netherite</material>
+        <material>Mesa de herreria</material>
+        <material>Mejora de netherite</material>
+      </materials>
+
       <enchantable>true</enchantable>
+
    <enchantments>
      <enchantment>Irrompibilidad 3/III</enchantment>
      <enchantment>Reparacion</enchantment>
    </enchantments>
-   </item>
+
+</item>
    
   
 
-    <item id="04">
+<item id="04">
      <name>Pala de Netherite</name>
      <type>Herramienta</type>
      <rarity>Legendaria</rarity>
      <damage>4 - Para cavar el suelo de tierra, arena o grava</damage>
      <description>Con esta pala puedes cavar tierra, arena o grava rapidísimo, y dura mucho más que la de diamante.</description>
     <crafteable>false</crafteable>
-    <materials>
+
+     <materials>
        <material>Pala de diamante</material>
        <material>Escombro ancestral</material>
        <material>Lingote de Netherite</material>
        <material>Mesa de herreria</material>
        <material>Mejora de netherite</material>
-    </materials>
+     </materials>
+
       <enchantable>true</enchantable>
+
    <enchantments>
      <enchantment>Irrompibilidad3/III</enchantment>
      <enchantment>Reparacion</enchantment>
    </enchantments>
-    </item>
-   
-  
 
-    <item id="05">
+</item>
+   
+
+<item id="05">
      <name>Azada de Netherite</name>
      <type>Tipo de ítem </type>
      <rarity>Legendaria </rarity>
      <damage>2 - Para cultivar comida</damage>
      <description>Ideal para preparar la tierra para plantar, es súper rápida y resistente, mejor que la de diamante.</description>
     <crafteable>false</crafteable>
-    <materials>
+
+      <materials>
        <material>Azada de diamante</material>
        <material>Escombro ancestral</material>
        <material>Lingote de Netherite</material>
        <material>Mesa de herreria</material>
        <material>Mejora de netherite</material>
-    </materials>
+      </materials>
+
       <enchantable>true</enchantable>
+
    <enchantments>
      <enchantment>Irrompibilidad3/III</enchantment>
      <enchantment>Reparacion</enchantment>
    </enchantments>
-    </item>
+
+</item>
     
 </minecraftItems>
