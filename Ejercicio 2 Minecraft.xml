@@ -24,7 +24,6 @@
      <enchantment>Filo 5/V</enchantment>
      <enchantment>Reparacion</enchantment>
    </enchantments>
-
 </item>
 
 
@@ -51,7 +50,6 @@
      <enchantment>Filo 5/V</enchantment>
      <enchantment>Reparacion</enchantment>
    </enchantments>  
-
 </item>
  
 
@@ -77,7 +75,6 @@
      <enchantment>Irrompibilidad 3/III</enchantment>
      <enchantment>Reparacion</enchantment>
    </enchantments>
-
 </item>
    
   
@@ -104,7 +101,6 @@
      <enchantment>Irrompibilidad3/III</enchantment>
      <enchantment>Reparacion</enchantment>
    </enchantments>
-
 </item>
    
 
@@ -130,7 +126,6 @@
      <enchantment>Irrompibilidad3/III</enchantment>
      <enchantment>Reparacion</enchantment>
    </enchantments>
-
 </item>
-    
+
 </minecraftItems>
