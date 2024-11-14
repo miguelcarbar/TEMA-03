@@ -1,4 +1,4 @@
-    <!ELEMENT figuras (rectangulo*, circulo*, linea*)>
+    <!ELEMENT escena (rectangulo*, circulo*, linea*)>
     
     <!ELEMENT rectangulo (posicion, altura, ancho)>
     <!ELEMENT circulo (posicion, radio)>
