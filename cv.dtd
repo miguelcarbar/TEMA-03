@@ -1,0 +1,24 @@
+<!ATTLIST cv lang CDATA #REQUIRED>
+
+<!ELEMENT cv (informacionpersonal, idiomas, experiencialaboral, habilidades, formacion)>
+<!ELEMENT informacionpersonal (nombre, telefono, email, fechanac)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT telefono (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT fechanac (#PCDATA)>
+
+<!ELEMENT idiomas (idioma+)>
+<!ELEMENT idioma (nombre, nivel)>
+<!ELEMENT nivel (#PCDATA)>
+<!ELEMENT experiencialaboral (trabajo+)>
+
+<!ELEMENT trabajo (puesto, empresa, fechainicio, fechafin)>
+<!ELEMENT puesto (#PCDATA)>
+<!ELEMENT empresa (#PCDATA)>
+<!ELEMENT fechainicio (#PCDATA)>
+<!ELEMENT fechafin (#PCDATA)>
+
+<!ELEMENT habilidades (habilidad+)>
+<!ELEMENT habilidad (#PCDATA)>
+<!ELEMENT formacion (titulo)>
+<!ELEMENT titulo (#PCDATA)>
