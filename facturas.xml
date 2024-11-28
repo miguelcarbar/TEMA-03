@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE facturas SYSTEM "facturas.dtd">
+
+<facturas>
+
+    <membrete>
+        <cif>B12345678</cif>
+        <razonsocial>Empresa A.</razonsocial>
+        <direccion>Calle Javea II</direccion>
+        <codigopostal>03730</codigopostal>
+        <poblacion>Javea</poblacion>
+        <telefono>612345678</telefono>
+        <email>contacto@empresa.com</email>
+    </membrete>
+
+    <factura idfactura="F1">
+
+        <numero>F1</numero>
+        <fecha>28/11/2024</fecha>
+
+        <resumen>
+            <formapago tipo="tarjeta">tarjeta</formapago>
+            <descuento>5</descuento>
+        </resumen>
+    </factura>
+
+    <factura idfactura="F2">
+
+        <numero>F2</numero>
+        <fecha>28/11/2024</fecha>
+        
+        <resumen>
+            <formapago tipo="transferencia">transferencia</formapago>
+        </resumen>
+    </factura>
+
+    <clientes>
+        <cliente id="C1" dni="61234567J" nombre="Manolo Garcia" direccion="Av Juan Carlos I" codigopostal="03730" poblacion="Javea" />
+        <cliente id="C2" dni="81234569J" nombre="Pepa Garcia" direccion="Av Juan Carlos II" codigopostal="41012" poblacion="Sevilla" />
+    </clientes>
+
+    <productos>
+        <producto idfactura="F1" codigo="P1" cantidad="2" descripcion="Producto 1" preciounitario="20" iva="12" />
+        <producto idfactura="F1" codigo="P2" cantidad="1" descripcion="Producto 2" preciounitario="22" iva="10" />
+        <producto idfactura="F1" codigo="P3" cantidad="3" descripcion="Producto 3" preciounitario="16" iva="5" />
+
+        <producto idfactura="F2" codigo="P4" cantidad="2" descripcion="Producto 4" preciounitario="10" iva="21" />
+        <producto idfactura="F2" codigo="P5" cantidad="1" descripcion="Producto 5" preciounitario="25" iva="10" />
+        <producto idfactura="F2" codigo="P6" cantidad="3" descripcion="Producto 6" preciounitario="15" iva="21" />
+    </productos>
+
+</facturas>
